@@ -1,5 +1,5 @@
 {
-  "name": "@marocchino/jest-transform-graphql",
+  "name": "jest-transform-graphql-tools",
   "version": "1.0.0",
   "description": "Jest transformer GraphQL files (using @graphql-tools/webpack-loader)",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marocchino/jest-transform-graphql.git"
+    "url": "git+https://github.com/marocchino/jest-transform-graphql-tools.git"
   },
   "keywords": [
     "jest",
@@ -19,9 +19,9 @@
   "author": "marocchino",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marocchino/jest-transform-graphql/issues"
+    "url": "https://github.com/marocchino/jest-transform-graphql-tools/issues"
   },
-  "homepage": "https://github.com/marocchino/jest-transform-graphql#readme",
+  "homepage": "https://github.com/marocchino/jest-transform-graphql-tools#readme",
   "peerDependencies": {
     "@graphql-tools/webpack-loader": "> 0"
   }

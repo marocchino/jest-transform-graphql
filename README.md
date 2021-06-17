@@ -1,4 +1,4 @@
-# @marocchino/jest-transform-graphql
+# jest-transform-graphql-tools
 
 ## Why?
 
@@ -13,7 +13,7 @@ write transform rule in `jest.config.js` like this:
 module.exports = {
   // ...
   transform: {
-    "\\.(gql|graphql)$": "@marocchino/jest-transform-graphql",
+    "\\.(gql|graphql)$": "jest-transform-graphql-tools",
   },
 }
 ```
